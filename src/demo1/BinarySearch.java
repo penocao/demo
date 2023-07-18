@@ -22,6 +22,6 @@ public class BinarySearch {
                 mid = (max + min) / 2;
             }
         }
-        System.out.println("index=" + index);
+        System.out.println("index= " + index);
     }
 }
